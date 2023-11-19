@@ -1,0 +1,104 @@
+html{
+    
+    
+    
+   
+    background-color: black;
+ 
+}
+.introduce{
+    margin-left: 700px;
+    display: flex;
+    
+    gap:90px;
+    color:blue;
+    
+
+}
+.name{
+    margin-top: 40px;
+    font-size: 30px;
+}
+.click{
+    text-decoration: none;
+    position: relative;
+    background-color:Blue;
+    color: white;
+    border: solid var(--accentColor) 2px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    
+    margin-bottom: 10px;
+    padding: 0px;
+    /* 17px */
+    text-decoration: none;
+    /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+
+  transition: 0.5s;
+  
+  text-shadow: -1px 0 5px CYAN,
+    0 1px 5px RED,
+    1px 0 5px CYAN,
+    0 -1px 5px RED;
+    
+}
+.introduce2{
+    display: flex;
+    flex-direction: column;
+    
+}
+.introduce{
+    margin-top: 200px;
+}
+.click{
+    margin-top: 60px;
+}
+.lienket{
+    text-decoration: none;
+    position: relative;
+    background-color: black;
+    color: white;
+    border: solid var(--accentColor) 2px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    
+    margin-bottom: 10px;
+    padding: 3px;
+    /* 17px */
+    text-decoration: none;
+    /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+
+  transition: 0.5s;
+  
+  text-shadow: -1px 0 5px CYAN,
+    0 1px 5px RED,
+    1px 0 5px CYAN,
+    0 -1px 5px RED;
+}
+.well{
+    color:red;
+    text-align: center;
+    font-size: 50px;
+}
+.navbar-light{
+    text-shadow: -1px 0 5px CYAN,
+    0 1px 5px RED,
+    1px 0 5px CYAN,
+    0 -1px 5px RED;
+}
+.introduce{
+    color:black;
+}
+.name{
+    color:blue
+}
